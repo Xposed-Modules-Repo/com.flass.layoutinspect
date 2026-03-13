@@ -2,7 +2,7 @@
 
 Layout Inspect是一款逆向必备的工具：它具备以下功能：应用进程、捕获布局（兼容各种窗口类型，包含临时上帝模式）、活动记录、类加载器（记录动态加载器）、搜索类名（包含动态加载类）、Inject So（注入So文件）、Dump So（与Frida枚举So类似）、Dump Dex（脱壳Dex加固）、Dump Maps（内存映射）、Dump Xml（解密Axml）、Dump Asset（解密Assets）、移除安全限制（截屏限制）、调试浏览器等等。
 
-<img src="https://icdn.binmt.cc/2603/69b3bf65c3399.jpg" alt="">
+<img src="http://cdn.u1.huluxia.com/g4/M02/3D/A4/rBAAdmmz0CuAH3XyAAT4UtcmluI146.jpg" alt="">
 
 ## 二、如何激活并使用模块？
 
@@ -221,3 +221,4 @@ Ps：该功能也可以用于Dump So，若您想Dump So，请使用“Dump All M
 ### 模块的悬浮窗被挡住？
 
 虽然开发者对悬浮窗的优先度进行了优化，但也不可能百分百保证悬浮窗一直不被遮挡，遇到这种情况，请[1秒内连续双击音量键+/-即可召唤悬浮窗](#)。
+
