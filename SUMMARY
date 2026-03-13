@@ -1,1 +1,1 @@
-Layout Inspect是一款逆向必备的工具：它可以获取当前活动、快速捕获布局、查看应用进程、直接打开Activity、枚举类加载器、搜索类名（包含动态Dex）、注入So文件、自定义Dump So、自定义脱壳Dex、自定义脱壳Maps内存、解密Asset资源、解密Xml资源、移除安全（截屏）限制、以及调试浏览器等等。
+Layout Inspect是一款逆向必备的工具：它具备以下功能：应用进程、捕获布局（兼容各种窗口类型，包含临时上帝模式）、活动记录、类加载器（记录动态加载器）、搜索类名（包含动态加载类）、Inject So（注入So文件）、Dump So（与Frida枚举So类似）、Dump Dex（脱壳Dex加固）、Dump Maps（内存映射）、Dump Xml（解密Axml）、Dump Asset（解密Assets）、移除安全限制（截屏限制）、调试浏览器等等。
