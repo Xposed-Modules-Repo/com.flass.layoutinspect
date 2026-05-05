@@ -176,7 +176,7 @@ Asset（支持Epic、纸片、木华、NP管理器等）、移除安全限制（
 - 1.预览对象：用于查看类结构（字段，构造，方法，父类，内部类等）
 - 2.Dump Dex：具体请参考下面的 Dump Dex
 
-<img src="https://icdn.binmt.cc/2605/69f9783a5f2f9.jpg" alt="">
+<img src="https://icdn.binmt.cc/2605/69f995724af64.jpg" alt="">
 
 ### 6.搜索类名（支持动态加载类）
 
