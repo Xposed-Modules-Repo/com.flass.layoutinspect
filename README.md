@@ -6,7 +6,7 @@ So（注入 so 文件）、Dump So（与 Frida 枚举 so 类似）、Dump Dex（
 Maps（/proc/self/maps，支持快速 dump）、Dump Xml（支持Epic、DexProtect等）、Dump
 Asset（支持Epic、纸片、木华、NP管理器等）、移除安全限制（去除截屏限制）、调试浏览器等等。
 
-<img src="http://cdn.u1.huluxia.com/g4/M02/3D/A4/rBAAdmmz0CuAH3XyAAT4UtcmluI146.jpg" alt="">
+<img src="https://icdn.binmt.cc/2605/69f991816414d.jpg" alt="">
 
 ## 二、如何激活并使用模块？
 
@@ -25,7 +25,7 @@ Asset（支持Epic、纸片、木华、NP管理器等）、移除安全限制（
 - 1.LSPatch（系列）：两种模式(Shizuku 和 内置模块)均支持，选其中一种模式都可以
 - 2.FPA
 - 3.团团分身
-- 4.虚拟机：光速虚拟机、虚拟大师等（不推荐VMOS）
+- 4.虚拟机：光速虚拟机、虚拟大师等（不推荐 VMOS）
 
 ## 四、功能说明
 
