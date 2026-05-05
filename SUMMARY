@@ -1,1 +1,1 @@
-Layout Inspect是一款逆向必备的工具：它具备以下功能：应用进程、捕获布局（兼容各种窗口类型，包含临时上帝模式）、活动记录、类加载器（记录动态加载器）、搜索类名（包含动态加载类）、Inject So（注入So文件）、Dump So（与Frida枚举So类似）、Dump Dex（脱壳Dex加固）、Dump Maps（内存映射）、Dump Xml（解密Axml）、Dump Asset（解密Assets）、移除安全限制（截屏限制）、调试浏览器等等。
+Layout Inspect 是一款逆向必备的工具：它具备以下功能：应用进程、捕获布局（兼容 SystemUI、各种窗口类型、临时上帝模式）、活动记录、类加载器（枚举内存中的类加载器）、搜索类名（支持动态加载类）、Inject So（注入 so 文件）、Dump So（与 Frida 枚举 so 类似）、Dump Dex（支持愛加蜜、愛加蜜企业、dpt-shell等方案脱壳）、Dump Maps（/proc/self/maps，支持快速 dump）、Dump Xml（支持Epic、DexProtect等）、Dump Asset（支持Epic、纸片、木华、NP管理器等）、移除安全限制（去除截屏限制）、调试浏览器等等。
