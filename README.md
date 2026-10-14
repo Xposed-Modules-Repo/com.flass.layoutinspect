@@ -1,3 +1,5 @@
+[English](README_EN.md) | **中文**
+
 ## 一、模块简介
 
 Layout Inspect 是一款逆向必备的工具：它具备以下功能：应用进程、捕获布局（兼容
